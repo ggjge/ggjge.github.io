@@ -1,6 +1,6 @@
 ---
 title: "NE-R1: Enhancing Named Entity Recognition Model via Reinforcement Learning"
-venue: 'EMNLP2026'
-paperurl: 'https://arxiv.org/abs/xxxx.xxxxx'
-authors: 'First Author, Second Author, <b>Lihehan</b>, Corresponding Author'
+venue: 'EMNLP 2026'
+paperurl: 'https://arxiv.org/abs/2609.02366'
+authors: 'Meixuan Chen, <b>Lihehan</b>, Ruizhi Zhao, Xin Lu, peizhi xu, Liwei Qian, LI Meifang, shuanglong li, Hanmeng Liu, Xin Pei, Yanbiao Ma'
 ---
