@@ -31,11 +31,15 @@ My Major research direction:
 ## Publications
 {: #publications}
 
-论文列表由 `_publications/` 目录下的文件自动生成，无需在此手写。
-下面这行会把集合内的论文按时间倒序渲染出来：
-
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <div class="list__item">
+    <article class="archive__item">
+      <p style="margin:0 0 .2em 0;">
+        {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}{% if post.venue %}. {{ post.venue }}.{% endif %}
+      </p>
+      {% if post.authors %}<p style="margin:0 0 1.2em 0; color:#555;">{{ post.authors }}</p>{% endif %}
+    </article>
+  </div>
 {% endfor %}
 
 
