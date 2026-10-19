@@ -1,9 +1,6 @@
-
-
 ---
 title: "NE-R1: Enhancing Named Entity Recognition Model via Reinforcement Learning"
 collection: publications
-permalink: /publication/ne-r1
 date: 2026-11-01
 venue: 'EMNLP 2026'
 paperurl: 'https://arxiv.org/abs/2609.02366'
