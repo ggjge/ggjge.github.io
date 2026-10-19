@@ -12,7 +12,7 @@ redirect_from:
 ## Biography
 {: #biography}
 
-Hi, I'm **lihehan**, currently an application researcher at **Baidu** Company
+Hi, I'm **Li Hehan**, currently an application researcher at **Baidu** Company
 
 #（这里可以补充更详细的个人简介，比如教育/工作经历、研究理念等。支持 Markdown，可插入 [CV 链接](/files/cv.pdf) 等。）
 
