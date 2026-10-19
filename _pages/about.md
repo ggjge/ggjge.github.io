@@ -21,8 +21,6 @@ Hi, I'm **Li Hehan**, currently an application researcher at **Baidu** Company
 <!-- ============ Research ============ -->
 ## Research
 {: #research}
-
-#我的主要研究方向：
 My Major research direction:
 
 - **NLP**（自然语言处理）
