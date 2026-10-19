@@ -23,9 +23,9 @@ Hi, I'm **Li Hehan**, currently an application researcher at **Baidu** Company
 {: #research}
 My Major research direction:
 
-- **NLP**（自然语言处理）
-- **LLM Post Training**（大模型后训练）
-- **Generative Retrieval**（生成式检索）
+- **NLP**
+- **LLM Post Training**
+- **Generative Retrieval**
 
 <!-- ============ Publications ============ -->
 ## Publications
