@@ -1,8 +1,8 @@
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    <p style="margin:0;">
+    <p style="margin:0 0 .2em 0;">
       {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}{% if post.venue %}. {{ post.venue }}.{% endif %}
     </p>
-    {% if post.authors %}<p style="margin:0 0 1em 0;">{{ post.authors }}</p>{% endif %}
+    {% if post.authors %}<p style="margin:0 0 1.2em 0; color:#555;">{{ post.authors }}</p>{% endif %}
   </article>
 </div>
