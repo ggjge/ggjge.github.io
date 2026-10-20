@@ -47,6 +47,6 @@ My Major research direction:
 ## Education
 {: #education}
 
-- **Naikai University**，undergraduate degree in Mathematics
+- **Nankai University**，undergraduate degree in Mathematics
 - **Renmin University of China**，master degree in Computer Application Technology
 
